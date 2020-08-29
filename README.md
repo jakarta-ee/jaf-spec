@@ -16,7 +16,7 @@
 
 # JAF
 
-This repository contains the JAF Specification source.  The API classes for the `javax.activation` package are provided with implementations and therefore not found here.
+This repository contains the JAF Specification source.  The API classes for the `jakarta.activation` package are provided with implementations and therefore not found here.
 
 Contributions are welcome, please sign the Eclipse Contributor Agreement before submitting PRs: https://www.eclipse.org/contribute/cla
 
